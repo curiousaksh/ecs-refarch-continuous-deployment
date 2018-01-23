@@ -19,7 +19,7 @@ group of t2.micro instances will be created to host your service.
 
 [![](images/architecture.png)][architecture]
 
-## Running the example
+## Running the example Tests
 
 #### 1. Fork the GitHub repository
 
